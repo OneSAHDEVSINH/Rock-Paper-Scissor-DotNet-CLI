@@ -1,0 +1,42 @@
+﻿C# Tutorial
+C# HOME
+C# Intro
+C# Get Started
+C# Syntax
+C# Output
+C# Comments
+C# Variables
+C# Data Types
+C# Type Casting
+C# User Input
+C# Operators
+C# Math
+C# Strings
+C# Booleans
+C# If...Else
+C# Switch
+C# While Loop
+C# For Loop
+C# Break/Continue
+C# Arrays
+
+C# Methods
+C# Methods
+C# Method Parameters
+C# Method Overloading
+
+C# Classes
+C# OOP
+C# Classes/Objects
+C# Class Members
+C# Constructors
+C# Access Modifiers
+C# Properties
+C# Inheritance
+C# Polymorphism
+C# Abstraction
+C# Interface
+C# Enums
+C# Files
+C# Exceptions
+i learned these topics from w3schools. now i want to practice it. give me programs one by one for c# console app(.net framework) visual studio. i shall proivide you my solution. evaluate it and move on to next one.
